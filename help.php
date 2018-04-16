@@ -37,3 +37,4 @@ require_once "site_faq/site_faq" . $faqfilelang . ".html";
 
 output_trailer();
 
+//added help menu for users.
