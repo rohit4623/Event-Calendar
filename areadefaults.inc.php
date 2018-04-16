@@ -247,3 +247,4 @@ $confirmation_enabled = TRUE;
 // Only used if $confirmation_enabled is TRUE.   If $confirmation_enabled is 
 // FALSE, then all new bookings are confirmed automatically.
 $confirmed_default = TRUE;
+//Add Area.
