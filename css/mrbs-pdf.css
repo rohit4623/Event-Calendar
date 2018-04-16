@@ -1,0 +1,15 @@
+table {
+    border : 1px solid blue;
+
+}
+th {
+    color : white;
+    background-color: #2A5077;
+    text-align: center;
+}
+tr.even{
+    background-color: #EEEEEE;
+}
+td {
+    padding-left: 30px;
+}
