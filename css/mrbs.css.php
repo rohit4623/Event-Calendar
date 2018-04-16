@@ -14,7 +14,7 @@ expires_header(60*30); // 30 minute expiry
 //   (1) specify all PHP length variables as strings, eg $border_width = '1.5'; and not $border_width = 1.5;
 //   (2) convert PHP variables after arithmetic using number_format
 // ***********************************************************************************************************
-                                
+//added new css                         
 ?>
 
 
